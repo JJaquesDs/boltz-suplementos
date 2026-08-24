@@ -5,3 +5,9 @@ typer
 bcrypt
 python-dotenv
 psycopg2-binary
+PyJWT
+kwargs
+alembic
+psycopg
+pydantic[email]
+python-multipart
